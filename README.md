@@ -5,5 +5,9 @@ La siguiente visualización realiza un estudio de datos disponibles de Spotify. 
 La visualización responde a algunas preguntas:
   - ¿Cuánta música se escucha por país en Spotify?
   - ¿Cuánta música se escucha mundialmente en Spotify?
+  - ¿Qué canciones se escuchan más?
+  - ¿Qué artistas se escuchan más?
+  - ¿Qué características tienen las canciones y artistas más escuchados? 
+  - ¿Hay relación entre los álbums y géneros y las canciones más escuchadas?
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12509279"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
