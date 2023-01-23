@@ -9,6 +9,7 @@ El objetivo de la visualización es aportar información de consumo de la plataf
   - ¿Qué canciones y artistas se escuchan más?
   - ¿Qué características tienen las canciones más escuchadas?
   - ¿Qué características tienen las playlists más escuchadas?
+  - ¿Cuál ha sido la evolución de las dinámicas de consumo?
 
 Los países más consumidores de la plataforma son los países occidentales. España escucha más música que países del entorno.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12509279"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
