@@ -17,11 +17,12 @@ Los países más consumidores de la plataforma son los países occidentales. Esp
 Las escuchas en españa han crecido progresivamente hasta ser el país que más escucha en 2022, mientras que en otros países europeos hay más variación.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12525434"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-
 De las canciones más escuchadas la más antigua es "perfect" de Ed Sheeran en 2015 y la mayoría son de los últimos 4 años.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12508564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12525778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+La música más escuchada es música pop, si bien los géneros de las canciones más escuchadas son bastante diversos.
+<div class="flourish-embed flourish-sankey" data-src="visualisation/12512885"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 La canción más escuchada es diferente en cada país y estados unidos tiene muchas más reproducciones que el resto de países.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12515003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
