@@ -18,3 +18,5 @@ Se infiere que los países más consumidores de la plataforma son los países oc
 
 Las escuchas en españa han crecido progresivamente hasta ser el país que más escucha en 2022, mientras que en otros países europeos hay más variación.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12508564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12525778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
