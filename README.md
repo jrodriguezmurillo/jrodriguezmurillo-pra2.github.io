@@ -20,3 +20,6 @@ Las escuchas en españa han crecido progresivamente hasta ser el país que más 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12508564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12525778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+La canción más escuchada es diferente en cada país y estados unidos tiene muchas más reproducciones de la canción más escuchada que el resto de países.
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12515003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
