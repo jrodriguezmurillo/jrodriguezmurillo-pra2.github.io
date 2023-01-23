@@ -2,18 +2,12 @@
 
 La siguiente visualización realiza un estudio de datos disponibles de Spotify. La plataforma de consumo de música en Streaming tiene gran cantidad de usuarios en todo el mundo y la información de su uso es buena medida del consumo a nivel global.
 
-El objetivo de la visualización es aportar información de consumo de la plataforma a un público general e intentar dar respuesta a algunas preguntas:
-  - ¿Cuánta música se escucha en Spotify?
-  - ¿Cuánta música se escucha por país en Spotify?
-  - ¿Cuál ha sido la evolución de escuchas en Spotify?
-  - ¿Qué canciones y artistas se escuchan más?
-  - ¿Qué características tienen las canciones más escuchadas?
-  - ¿Qué características tienen las playlists más escuchadas?
-  - ¿Cuál ha sido la evolución de las dinámicas de consumo?
+El objetivo de la visualización es aportar información de consumo de la plataforma a un público general e informar sobre dinámicas de consumo de la plataforma y de música en general.
 
 Los países más consumidores de la plataforma son los países occidentales. España escucha más música que países del entorno.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12509279"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12526697"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Las escuchas en españa han crecido progresivamente hasta ser el país que más escucha en 2022, mientras que en otros países europeos hay más variación.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12525434"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
