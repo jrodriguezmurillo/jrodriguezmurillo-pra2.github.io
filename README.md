@@ -34,3 +34,5 @@ Esto coincide con las características más demandadas en las playlists más esc
 <div class="flourish-embed flourish-chart" data-src="visualisation/12513037"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-sankey" data-src="visualisation/12513148"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+A lo largo de la década se ha pasado de consumir canciones más energéticas y con volúmenes altos a canciones más bailables.
+<div class="flourish-embed flourish-chart" data-src="visualisation/12526433"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
